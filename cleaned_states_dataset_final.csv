@@ -1,0 +1,53 @@
+State,Uninsured Rate Change (2010-2015),Health Insurance Coverage Change (2010-2015),State Medicaid Expansion (2016),Medicaid Enrollment Change (2013-2016)
+Alabama ,-4.5,215000,False,111599.0
+Alaska ,-5.0,36000,True,44291.0
+Arizona ,-6.1,410000,True,514428.0
+Arkansas ,-8.0,234000,True,363343.0
+California,-9.9,3826000,True,4087700.0
+Colorado,-7.8,419000,True,591844.0
+Connecticut,-3.1,110000,True,302611.0
+Delaware ,-3.8,35000,True,13378.0
+District of Columbia,-3.8,25000,True,19705.0
+Florida ,-8.0,1597000,False,539677.0
+Georgia ,-5.8,581000,False,247211.0
+Hawaii,-3.9,54000,True,52843.0
+Idaho,-6.7,109000,False,55755.0
+Illinois ,-6.7,850000,True,490996.0
+Indiana ,-5.2,339000,True,369131.0
+Iowa ,-4.3,132000,True,125540.0
+Kansas ,-4.8,137000,False,43478.0
+Kentucky,-9.3,404000,True,613983.0
+Louisiana ,-5.9,269000,True,308921.0
+Maine ,-1.7,22000,False,352464.0
+Maryland,-4.7,278000,True,396007.0
+Massachusetts,-1.6,107000,True,387969.0
+Michigan ,-6.3,618000,True,388949.0
+Minnesota,-4.6,250000,True,178469.0
+Mississippi ,-5.5,161000,False,56640.0
+Missouri ,-3.4,203000,False,121200.0
+Montana ,-5.7,58000,True,75074.0
+Nebraska ,-3.3,62000,False,-1898.0
+Nevada,-10.3,294000,True,281738.0
+New Hampshire ,-4.8,63000,True,62347.0
+New Jersey ,-4.5,398000,True,500678.0
+New Mexico,-8.7,178000,True,309054.0
+New York,-4.8,939000,True,752748.0
+North Carolina ,-5.6,552000,False,476330.0
+North Dakota ,-2.0,15000,True,19783.0
+Ohio ,-5.8,664000,True,661689.0
+Oklahoma ,-5.0,192000,False,-1507.0
+Oregon,-10.1,403000,True,395506.0
+Pennsylvania ,-3.8,479000,True,497068.0
+Rhode Island,-6.5,68000,True,96340.0
+South Carolina ,-6.6,317000,False,105060.0
+South Dakota ,-2.2,19000,False,4334.0
+Tennessee ,-4.1,266000,False,382584.0
+Texas ,-6.6,1781000,False,328624.0
+Utah ,-4.8,143000,False,20153.0
+Vermont,-4.2,26000,True,14516.0
+Virginia ,-4.0,327000,False,53387.0
+Washington,-7.6,537000,True,670960.0
+West Virginia ,-8.6,156000,True,221101.0
+Wisconsin ,-3.7,211000,False,61366.0
+Wyoming,-3.4,20000,False,-3935.0
+United States,6.1,19304000,True,16106157.0
